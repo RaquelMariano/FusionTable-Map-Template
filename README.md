@@ -1,6 +1,6 @@
+## Searchable Map
 
-
-[See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://RaquelMariano.github.io/FusionTable-Map-Template/)
 
 
 
